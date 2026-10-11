@@ -1,4 +1,3 @@
-.vscode
 *.out
 .idea
 .envrc
@@ -26,3 +25,5 @@ kind
 /stresser
 __debug_bin*
 fg.yaml
+config.bat
+node_modules
